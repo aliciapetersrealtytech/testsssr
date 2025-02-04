@@ -26,9 +26,6 @@ export default defineNuxtConfig({
         href: '/favicon.png'
       }
     ],
-    // please note that this is an area that is likely to change
-    style: [],
-    noscript: []
   },
   scripts: {
     globals: {
